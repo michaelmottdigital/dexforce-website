@@ -1,0 +1,1 @@
+https://avantage.bold-themes.com/strategy/

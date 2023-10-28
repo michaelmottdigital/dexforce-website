@@ -1,0 +1,1 @@
+wsl zip -r deploy.zip .output -x ".output/server/node_modules/*"

@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "dfc-site-378414",
+  "private_key_id": "84ab7ae0ec3261079f0a75ddb71482165717f95c",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC4Wlh81SYZBEVI\nei/L+lg0CmRYX62kWJqVhwrJIpwmUNhEtK+CoZ5CMmEBxJi1mdhTQYOF+qXn2rll\nmR9tF0D33DbOLptqFAGrdrj1d9YEKu/NyirLMH5gmxPmrg0pTk1ehgwoVUJjZiD4\nmmXg23WgPruPNEQ1vwjNmhizRPmGRX93pqP69bzpwTZVYKilp56DD3/gCcKXhGHj\nbX23qhtgV0k5N1kHWyTnXBa726VMXX+rGyNYm395LR9YEbMokCxwqDeMMYocYAxJ\neyyc4NggCrw1gOE/onnmiwOLBqXXQyAhrVBtpr/fF5aGJeCRwWhhml1WvQRUsDpN\nrb7yxce9AgMBAAECggEAJMhB54ZPt6YWfMOETdqBRsDcDJXqe2QCU9tB16fEKBDx\nVaQHcLT2cpbCrCuhnHo5o0LrDwxXlc8aNp86mfWNzOZvOOwrrhqXyrJBbRif5uz6\nM8EmkKv4SyYl7lzD2334CegM/O8l89cotPF5akffTD24BnaTNXYMN5mLXBli/9r/\nNFpE8F5eU8un1EedB1Xtx35t8KQJ8xpHLrma6aZIHH+HWvQoYvj3CKOkn9z7W/Bb\nNvn9oZHHzKBUuk7G6WWn6BYbUBCK5XlIKFIuaeXEKG6YF/zydbpc9AmYUhKmw9uR\ngyIdQKhJvjVT/AAVVSa5on3bdnGEQF3yx4PswyPxgQKBgQDiXBiqlLgB7+hiGRxx\ntVGRD8X4e/QR+ACiHqStDNp8uAx8CZ2vCJCyePbTih4XLqPNDcCwr4J5DG7xV1ap\nD6pHMjDxyWz049ePeMfUyI4xflEGNf59gsDELnzbEUvhQIdRaV3eMf9BW2kEPlke\nlWB7Qe3CMOVfaE3uX0/P2igw5QKBgQDQfh6rHVjF+brX1skpaVkBrP+nNB6RFJXz\nb0DBkVYf0Rl32zCpTrhlZm8G02wMVglvb8Ch5BPodnNxsMjMYmvcXFdpWZk3/aO1\nPxLoZAVROrEqKWK0MIgRsBiRBxoOdzTtrarT/V3VoEilNLDGRNDHWpMJy8PbZChI\n2St++PbF+QKBgCQONWOecrzkQOi3RT+beRWZJJiS7eqazUcFiIeD/51UF7D+Ox6x\nR5MWD4LcgjSBGlhEM4gxPKAZaeaJWeVt+FqE1ST+R5uuWxygSXxMQdICY9eQbCwD\n0r6tBPhEBgkoJSXDmc8VuanobI7fe4SSmJ6pfryq2y5aR+eLSQQ7pKE9AoGBAJLQ\nTL5IAwwd55E3oR21HkUM0lWmYOPesBzkuZ/UvOXYs2twANsoILbeo84VsN8a8rfy\n5J3bYp1uU6q6RxuNLtDUgYUg38DKra3ihWj5jbj+cGT1EZk7F4YFD7eIXbPUA4Re\np41xu9LDdIRJDzX+nVnUEPhz8S4bYDa0Hmnh3LvZAoGAVDs4AZcJms8W7+uku1tJ\nH4B5riPoUDVx0P3zC3dXyMzaXQA0rq2ZTT56rKS904sH6Ax37vbmnyybG5rmUP3e\niAB2Jf59TVhSkLPglsgFmMU/uGVqHrYunnOw2UaIFGWTrfle9m3ioMRNA0CZHHmV\nSnrfwMIk+9RKf6ZKe6ggIPs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "dexforcewebsite@dfc-site-378414.iam.gserviceaccount.com",
+  "client_id": "114147067309328939266",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/dexforcewebsite%40dfc-site-378414.iam.gserviceaccount.com"
+}

@@ -1,0 +1,48 @@
+
+
+
+Services Page
+--------------
+
+- remove super heading 
+
+
+Quick Start
+- switch order of service title - quick start to the end   
+
+
+Button - Book a call 
+- Calendly , link from 
+
+
+Remove flows from page
+
+
+Footer
+------------
+Remove phone # 
+
+Privacy policy
+terms and conditions and copywrite
+
+
+
+Home page
+---------
+Add footer
+
+slow down carousel
+
+Button - Go to service page 
+
+
+Blog
+-------
+
+
+
+
+
+
+
+

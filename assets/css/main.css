@@ -1,0 +1,68 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@200;300;400;500;600;700&display=swap');
+
+
+@tailwind base;
+
+h1 {
+    @apply font-montserrat;
+    @apply text-6xl;
+    @apply tracking-tight;
+    @apply font-extrabold;
+    @apply mb-3;
+}
+
+h2 {
+    @apply font-montserrat;
+    @apply text-5xl;
+    @apply tracking-tight;
+    @apply font-extrabold;
+    @apply mb-3;
+}
+h3 {
+    @apply font-montserrat;
+    @apply text-4xl;
+    @apply tracking-tight;
+    @apply font-extrabold;
+    @apply mb-3;
+
+}
+
+h4 { 
+    @apply font-montserrat;
+    @apply text-3xl;
+    @apply tracking-tight;
+    @apply font-extrabold;
+    @apply mb-3;
+
+}
+
+p {
+    @apply block;
+}
+
+
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    [type='text'],
+    [type='email'],
+    [type='url'],
+    [type='password'],
+    [type='number'],
+    [type='date'],
+    [type='datetime-local'],
+    [type='month'],
+    [type='search'],
+    [type='tel'],
+    [type='time'],
+    [type='week'],
+    [multiple],
+    textarea,
+    select {
+        @apply w-full border-blue-300 rounded-lg shadow-sm 
+        focus:border-blue-900 focus:ring-indigo-900 focus:ring-2;
+    }
+}

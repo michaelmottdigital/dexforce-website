@@ -1,0 +1,6 @@
+<template>
+    <HeaderHome/>
+    
+    <Footer/>
+
+</template>

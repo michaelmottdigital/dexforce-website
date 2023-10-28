@@ -1,0 +1,2 @@
+Hello Douglas.
+While researching Salesforce partners, I found 17 Grapes. I am always eager to connect with other experts in the field and would love to discuss any opportunities for collaboration. Would you be open to starting a conversation? Thanks!
