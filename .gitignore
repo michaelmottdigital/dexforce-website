@@ -7,9 +7,6 @@ node_modules
 .env
 dist
 
-# these files contain sensitive data
-docs/ec2/instance/*.sh
-docs/ec2/instance/*.pem
 
 
 
